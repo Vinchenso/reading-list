@@ -1,7 +1,11 @@
 # Reading-list
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Trying out the following:
+
+* [Ember Tutorial](https://emberigniter.com/getting-started-ember-cli-data-down-actions-up-tutorial/)
+* Using [Hotel](https://github.com/typicode/hotel), to determine if I want to add it to my workflow.
+* Text editor Used **Vim**
+
 
 ## Prerequisites
 
