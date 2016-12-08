@@ -5,7 +5,7 @@ Trying out the following:
 * [Ember Tutorial](https://emberigniter.com/getting-started-ember-cli-data-down-actions-up-tutorial/)
 * Using [Hotel](https://github.com/typicode/hotel), to determine if I want to add it to my workflow.
 * Text editor Used **Vim**
-
+* Use of Travis to understand CI
 
 ## Prerequisites
 
